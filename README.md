@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhj0214&theme=blue-green&show_icons=true)
 
 <img src="https://img.shields.io/badge/vuejs-#4FC08D?style=for-the-badge&logo=nodedotjs&logoColor=black">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <!--
 **yhj0214/yhj0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 hi
