@@ -4,8 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhj0214&theme=blue-green&show_icons=true)
 
-
-<img src="https://img.shields.io/badge/#4FC08D?style=for-the-badge&logo=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vue.js</title><path d="M24,1.61H14.06L12,5.16,9.94,1.61H0L12,22.39ZM12,14.08,5.16,2.23H9.59L12,6.41l2.41-4.18h4.43Z"/></svg>&logoColor=black">
+<img src="https://img.shields.io/badge/vuejs-#4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black">
 
 <!--
 **yhj0214/yhj0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
