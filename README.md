@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=Vuedotjs&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/html5-2222A2?style=plastic&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/html5-000060?style=plastic&logo=html5&logoColor=E34F26">
 <!--
 **yhj0214/yhj0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 hi
