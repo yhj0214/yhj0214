@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ho_0214)](https://solved.ac/ho_0214)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhj0214&theme=bluegreen&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhj0214&theme=blue-green&show_icons=true)
 
 <!--
 **yhj0214/yhj0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
