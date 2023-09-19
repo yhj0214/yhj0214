@@ -4,11 +4,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhj0214&theme=blue-green&show_icons=true)
 
-<img src="https://img.shields.io/badge/html5-000030?style=flat&logo=html5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/css-000030?style=flat&logo=css3&logoColor=E34F26">
-<img src="https://img.shields.io/badge/html5-000030?style=flat&logo=html5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/html5-000030?style=flat&logo=html5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/html5-000030?style=flat&logo=html5&logoColor=E34F26">
+<div>
+    
+  <img src="https://img.shields.io/badge/html5-000030?style=flat&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/css-000030?style=flat&logo=css3&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/html5-000030?style=flat&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/html5-000030?style=flat&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/html5-000030?style=flat&logo=html5&logoColor=E34F26">
+</div>
 <!--
 **yhj0214/yhj0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 hi
