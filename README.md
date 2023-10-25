@@ -33,7 +33,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhj0214)](https://github.com/yhj0214/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhj0214&layout=compact)](https://github.com/yhj0214/github-readme-stats)
 <hr>
 
 ### 💻&nbsp;Project
