@@ -38,7 +38,7 @@
 <hr>
 
 ### 💻&nbsp;Project
-(https://github.com/yhj0214/Riding-the-Wind)
+## 1. [riding the wind](https://github.com/yhj0214/Riding-the-Wind)
 <!--
 <details>
   <summary>Rualone</summary>
