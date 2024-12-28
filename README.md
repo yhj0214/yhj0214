@@ -56,10 +56,6 @@
 -->
 <br>
 
-<!--
-**yhj0214/yhj0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-hi
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
