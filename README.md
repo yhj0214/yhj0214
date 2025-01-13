@@ -53,9 +53,9 @@
 > ![Gitlab-CI](https://img.shields.io/badge/-Gitlab_CI-05122A?style=flat&logo=gitlab)&nbsp;
 > ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
 </details>
--->
 <br>
 
+-->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
