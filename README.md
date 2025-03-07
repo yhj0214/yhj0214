@@ -1,9 +1,6 @@
 ## 기본기에 집중하는 개발자 유호재입니다.
 
-<!--
-.
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height='150' />..
--->
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height='150' />
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 java와 Spring의 원리를 공부하는 데 집중하고 있습니다. <br>
